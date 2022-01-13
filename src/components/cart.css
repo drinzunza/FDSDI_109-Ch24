@@ -1,0 +1,11 @@
+
+
+.cart-page {
+    min-height: 500px;
+    background-color: #dddae0;
+    padding-top: 50px;
+}
+
+.cart-page h1 {
+    text-align: center;
+}
