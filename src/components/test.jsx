@@ -31,8 +31,6 @@ const Test = () => {
       </button>
     </div>
   );
-
-  // will never be seen
 };
 
 export default Test;

@@ -11,7 +11,6 @@ const Product = (props) => {
 
   const getTotal = () => {
     let total = quantity * props.info.price;
-    // any discount ??
 
     return total.toFixed(2);
   };
@@ -42,18 +41,3 @@ const Product = (props) => {
 };
 
 export default Product;
-
-/**
- *
- * create a test component
- * show that on /test page
- *
- * two state variables
- * 1 - full name
- * 2 - email address
- *
- *
- * print the full name and email address on the screen
- *
- *
- */

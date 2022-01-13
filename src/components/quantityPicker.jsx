@@ -1,5 +1,5 @@
-import "./quantityPicker.css";
 import React, { useState } from "react";
+import "./quantityPicker.css";
 
 const QuantityPicker = (props) => {
   const [quantity, setQuantity] = useState(1);
