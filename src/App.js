@@ -9,6 +9,7 @@ import Test from "./components/test";
 import GlobalContext from "./context/globalContext";
 
 import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.min.js";
 import "font-awesome/css/font-awesome.min.css";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";

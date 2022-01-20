@@ -9,3 +9,16 @@
 .cart-page h1 {
     text-align: center;
 }
+
+.cart-container {
+    display: flex;
+}
+
+.cart-container .products {
+    flex: 4;
+}
+
+.cart-container .side-menu {
+    flex: 1;
+    background-color: #eaebec;
+}

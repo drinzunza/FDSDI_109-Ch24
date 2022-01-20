@@ -1,0 +1,26 @@
+.cart-prod {
+    display: flex;
+    align-items: center;    
+    margin-bottom: 10px;
+    background-color: #fcfcfc;
+    border: 1px solid #efefef;
+    border-radius: 6px;
+}
+
+.cart-prod img {
+    flex: 1;
+    height: 110px;
+}
+
+.cart-prod h6 {
+    flex: 6;
+}
+
+.cart-prod label {
+    flex: 1;
+    justify-content: right;
+}
+
+.cart-prod button {
+    flex: 1;
+}
